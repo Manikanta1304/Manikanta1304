@@ -1,0 +1,2 @@
+- 👋 Hi, I’m Manikanta
+- 👀 I’m working in the field of Data Science.
